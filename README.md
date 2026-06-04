@@ -5,6 +5,7 @@
 ## Perfil del Alumno
 
 **Nombre:** Jesús Emmanuel Arreola López
+**##Número de control**: 242310336
 
 **Carrera:** Ingeniería Informática
 
