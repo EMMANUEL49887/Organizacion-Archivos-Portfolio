@@ -52,15 +52,14 @@ Colocar los archivos del proyecto en un servidor local compatible con PHP (por e
 
 3. Acceder al sistema
 
-Abrir el navegador y acceder a:
-
-http://localhost/nombre_del_proyecto/
+Abrir el navegador y el localhost 
 
 4. Realizar consultas
 Ingresar uno o más criterios de búsqueda.
 Consultar órdenes específicas.
 Mostrar todas las órdenes registradas.
 Descargar los resultados obtenidos en formato TXT.
-Documentación
+
+## Documentación
 
 La documentación técnica completa incluye la descripción detallada de cada módulo del sistema, el funcionamiento de los archivos utilizados y la explicación del procesamiento de datos. Esta documentación puede encontrarse en la carpeta docs o en el reporte técnico del proyecto.
