@@ -22,6 +22,6 @@
 | Proyecto Evaluación general de OA                  | Python      | JSON                | https://github.com/EMMANUEL49887/Organizacion-Archivos-Portfolio/tree/main/Organizacion-Archivos-Portfolio/Proyecto%20Evaluacion%20Evaluacio%CC%81n%20general%20de%20OA                                     |
 ---
 
-## Descripción General
+## Descripción General.
 
 Este repositorio reúne los proyectos desarrollados durante la materia Administración y Organización de Datos. Cada proyecto aplica diferentes técnicas de organización y almacenamiento de información utilizando archivos y estructuras de datos para resolver problemas específicos.
