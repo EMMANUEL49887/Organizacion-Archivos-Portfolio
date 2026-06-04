@@ -6,11 +6,14 @@
 
 **Nombre:** Jesús Emmanuel Arreola López
 
-**##Número de control**: 242310336
+**Número de control**: 242310336
 
 **Carrera:** Ingeniería Informática
 
 **Institución:** Instituto Tecnológico Superior de Lerdo
+
+<img width="894" height="898" alt="image" src="https://github.com/user-attachments/assets/b47a200e-a80d-4603-a7a8-d6eeca291b7f" />
+
 
 ---
 
