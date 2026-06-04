@@ -41,4 +41,4 @@ Instrucciones básicas para ejecutar el sistema.
 2. Ejecutar el archivo principal:
 
 ## Documentación
-La documentación detallada se encuentra en la carpeta `docs`.
+La documentación técnica completa incluye la descripción detallada de cada módulo del sistema, el funcionamiento de los archivos utilizados y la explicación del procesamiento de datos. Esta documentación puede encontrarse en la carpeta docs o en el reporte técnico del proyecto.
