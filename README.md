@@ -8,6 +8,8 @@
 
 **Número de control**: 242310336
 
+**semestre :** 4
+
 **Carrera:** Ingeniería Informática
 
 **Institución:** Instituto Tecnológico Superior de Lerdo
